@@ -1,0 +1,14 @@
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\bin\Debug\net8.0\ex1.exe
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\bin\Debug\net8.0\ex1.deps.json
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\bin\Debug\net8.0\ex1.runtimeconfig.json
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\bin\Debug\net8.0\ex1.dll
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\bin\Debug\net8.0\ex1.pdb
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\obj\Debug\net8.0\ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\obj\Debug\net8.0\ex1.AssemblyInfoInputs.cache
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\obj\Debug\net8.0\ex1.AssemblyInfo.cs
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\obj\Debug\net8.0\ex1.csproj.CoreCompileInputs.cache
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\obj\Debug\net8.0\ex1.dll
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\obj\Debug\net8.0\refint\ex1.dll
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\obj\Debug\net8.0\ex1.pdb
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\obj\Debug\net8.0\ex1.genruntimeconfig.cache
+C:\Users\Zenilda\Desktop\14-02\ex1\ex1\obj\Debug\net8.0\ref\ex1.dll
